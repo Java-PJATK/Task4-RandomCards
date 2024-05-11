@@ -46,6 +46,7 @@ Eight of Hearts
 
 ## Solution
 
+[Replit](https://replit.com/@piecucci/Task4RandomCards) V1 (with switch expression)
 [Replit](https://replit.com/@piecucci/Task4RandomCardsV2) V2 (without switch expression)
 
 ```java
